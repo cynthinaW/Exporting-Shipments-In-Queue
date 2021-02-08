@@ -1,0 +1,2 @@
+# Exporting-Shipments-In-Queue
+We created a dashboard pulling all shipments in queue meet the following conditions: 1. How many shipments are in queue by ship method division 2. How many shipments have a must ship date for today, and how many have a must ship date for tomorrow 3. ow many shipments in queue were placed before 5PM today 4. How many shipments in different age zone? We aim to provide this dashboard for Ops team to check the number anytime, providing solutions to ship out the most eldest packages.
